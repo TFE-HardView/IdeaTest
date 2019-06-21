@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="GBK"?>
+<Books> 
+  <book id="1"> 
+    <name>java基础</name>  
+    <price>25.8</price>  
+    <describe>一本好书！</describe> 
+  </book>  
+  <book id="2"> 
+    <price>22</price>  
+    <describe>学习页面设计！</describe> 
+  </book>  
+  <book id="3" type="书籍"> 
+    <name>数据库的安装与维护</name>  
+    <price>22</price>  
+    <describe>学习页面设计！</describe> 
+  </book> 
+</Books>
+
